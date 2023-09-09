@@ -15,7 +15,9 @@
     "fastify": "^4.22.2"
   },
   "devDependencies": {
+    "@mermaid-js/mermaid-cli": "^10.4.0",
     "prisma": "^5.2.0",
+    "prisma-erd-generator": "^1.11.1",
     "tsx": "^3.12.8",
     "typescript": "^5.2.2"
   }
